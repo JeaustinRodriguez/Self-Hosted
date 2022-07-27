@@ -1,2 +1,2 @@
 # Self-Hosted
-How to create a self-hosted agent 
+Short guide to tow to create a self-hosted agent for DevOps
